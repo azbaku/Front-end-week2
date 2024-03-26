@@ -1,0 +1,28 @@
+Google Ana Sayfa Tasarımı
+Bu proje, HTML ve CSS kullanarak Google Ana Sayfa tasarımını oluşturmayı amaçlamaktadır.
+
+Proje Açıklaması
+Google Ana Sayfa tasarımı oluştururken aşağıdaki özellikler dikkate alınmıştır:
+
+Arama yapılacak alanın kenarları yuvarlatılmıştır.
+Arama alanında yazı yazılan yerin genişliği 480px olup kenarlık bulunmamaktadır.
+Üstteki alan sağ tarafa alınmış ve kişisel bir fotoğraf ile değiştirilmiştir. Fotoğrafın kenarları yuvarlatılmıştır.
+Arama simgesi gibi sesle arama simgesi eklenmiştir.
+Buttonlar ortaya alınmış, üstünden ve sağından boşluklar verilmiş ve kenarları 1px kalınlığında #f2f2f2 renginde olmuştur. Button yüksekliği 36px'tir. Yazı tipi Arial, yazı rengi #5f6368, yazı boyutu 14px'tir. Buttonlara gölge verilmiştir.
+Footerda arkaplan rengi #f2f2f2 olup liste noktaları kaldırılmıştır.
+Proje Kurulumu ve Kullanımı
+Projeyi bilgisayarınıza indirin veya GitHub üzerinden clonelayın.
+Projeyi Visual Studio Code ile açın.
+LiveServer eklentisini kullanarak index.html dosyasını önizleyin.
+Tasarımı inceleyerek istenilen özellikleri uygulayın.
+Geliştirme aşamasında "İncele/Inspect" özelliğinden yararlanarak detayları kontrol edin.
+Tasarımı tamamladıktan sonra projeyi GitHub'a yükleyin.
+Kanıtlama
+Proje klasöründe bulunan bir video dosyası, proje klasörünün içinde index.html dosyasının normal göründüğünü, ancak dışında ise eski hali ile göründüğünü kanıtlamak amacıyla eklenmiştir.
+
+Kullanılan Kaynaklar
+Google Ana Sayfa
+Visual Studio Code
+LiveServer
+Geliştiriciler
+Kodluyoruz Taskforce
